@@ -1,0 +1,30 @@
+.container {
+  width: 100%;
+}
+
+.Foods {
+  width: 600px;
+  margin-left: 200px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.Food-item {
+  width: 24%;
+  float: left;
+  margin-left: 12px;
+}
+
+.Food-item img {
+  width: 100%;
+  height: 200px;
+}
+
+.Description-istanbul {
+  text-align: center;
+}
+
+.sites-images img {
+  width: 200px;
+  height: 150px;
+}
